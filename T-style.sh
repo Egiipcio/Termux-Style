@@ -44,8 +44,6 @@ pip2 install lolcat
 
 termux-setup-storage
 
-xdg-open https://www.facebook.com/alaminkhan.60
-
 cd  /data/data/com.termux/files/usr/etc
 
 rm bash.bashrc
@@ -56,7 +54,7 @@ cd $HOME
 
 ls 
 
-cd T-STYLE
+cd Termux-Style
 
 ls
 
@@ -68,7 +66,7 @@ cd $HOME
 
 ls
 
-cd T-STYLE
+cd Termux-Style
 
 ls
 
