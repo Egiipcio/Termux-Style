@@ -11,7 +11,7 @@ pkg install python2 git
 
 git clone https://github.com/Egiipcio/Termux-Style.git 
 
-cd T-STYLE 
+cd Termux-Style
 
 bash T-style.sh  
 
@@ -19,7 +19,7 @@ bash T-style.sh
 
 # COMANDOS PARA UNA INTALACION AUTOMATIZADA
 ````
-apt update && apt upgrade -y && pkg install python && pkg install python2 git && git clone https://github.com/Egiipcio/Termux-Style.git && cd T-STYLE && bash T-style.sh 
+apt update && apt upgrade -y && pkg install python && pkg install python2 git && git clone https://github.com/Egiipcio/Termux-Style.git && cd Termux-Style && bash T-style.sh 
 
 ````
 .
